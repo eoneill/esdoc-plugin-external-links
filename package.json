@@ -1,0 +1,24 @@
+{
+  "name": "esdoc-plugin-external-links",
+  "version": "0.0.1",
+  "description": "ESDoc plugin to set the target for external links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eoneill/esdoc-plugin-external-links.git"
+  },
+  "keywords": [
+    "esdoc",
+    "plugin",
+    "esdoc-plugin"
+  ],
+  "author": "eoneill",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "minimatch": "^3.0.4"
+  }
+}
